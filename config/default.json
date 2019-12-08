@@ -1,0 +1,4 @@
+{
+	"mongoURI": "mongodb+srv://ilija:bandera@contactkeeper-cluster-epm3q.mongodb.net/test?retryWrites=true&w=majority",
+	"jwtSecret": "secretivestuff123"
+}
