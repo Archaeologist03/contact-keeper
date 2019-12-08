@@ -23,3 +23,4 @@ yarn-error.log*
 
 # custom
 default.json 
+production.json
